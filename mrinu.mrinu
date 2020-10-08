@@ -1,0 +1,6 @@
+mrinu.ftp = "overjamed.org/mrinu/SERVER/serv2"
+mrinu.load = "overjamed.org/mrinu/SERVER/core/serv2"
+mrinu.ssl = "ssl.overjamed.org/mrinu"
+mrinu.main-file = "mrinu.overjamed.org/download/main"
+mrinu.doms = "doms.overjamed.org/system.doms"
+mrinu.playable = "overjamed.org/mrinu/systems.core"
